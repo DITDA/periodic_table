@@ -1,6 +1,7 @@
 --
 -- PostgreSQL database dump
 --
+
 -- Dumped from database version 11.17 (Ubuntu 11.17-1.pgdg20.04+1)
 -- Dumped by pg_dump version 11.17 (Ubuntu 11.17-1.pgdg20.04+1)
 
